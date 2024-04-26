@@ -1,16 +1,15 @@
-### Hi there 👋
+**Boas vindas ao meu perfil** 💙💙
 
-<!--
-**Luiz-2A/Luiz-2A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Luiz Otávio Batista Corradi
 
-Here are some ideas to get you started:
+Estou estudando na Alura
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou me desenvolvendo na linguagem JavaScript
+
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+
+**Você pode entrar em contato comigo** 📫
+
+0000113898940xsp@al.educacao.sp.gov.br
+
+![giphy-3-original](https://github.com/Luiz-2A/Luiz-2A/assets/168193228/c7995ce0-b7c7-490a-8835-0a6133e98534)
